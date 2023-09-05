@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 import { AudioClip } from "./audioClip"
 import Drum from './Drum'
 import './App.css'
